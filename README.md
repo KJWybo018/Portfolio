@@ -1,2 +1,2 @@
 # Portfolio
-This is the code for my personal portfolio website.
+This website files is organized for my own personal use that can display my personal projects and information about me for job applications.
